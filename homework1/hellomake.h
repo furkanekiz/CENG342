@@ -1,4 +1,1 @@
-
-//example include file
-
-void myPrintHelloMake();
+void matrixVectorMultiply(int rows, int cols, char* filename);
