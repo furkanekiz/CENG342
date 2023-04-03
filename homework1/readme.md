@@ -2,4 +2,4 @@ to run the code
 
 >>make
 
->>./hellomake 5 6 output.txt
+>>mpirun -n 2 ./hellomake 1003 103 output.txt
